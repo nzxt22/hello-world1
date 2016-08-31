@@ -1,0 +1,95 @@
+C:\Users\mka\Desktop\pos\POS\bin\Debug\db.accdb
+C:\Users\mka\Desktop\pos\POS\bin\Debug\POS.exe.config
+C:\Users\mka\Desktop\pos\POS\bin\Debug\POS.exe
+C:\Users\mka\Desktop\pos\POS\bin\Debug\POS.pdb
+C:\Users\mka\Desktop\pos\POS\bin\Debug\POS.xml
+C:\Users\mka\Desktop\pos\POS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.MainWindow.resources
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.PasswordPicker.resources
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.Resources.resources
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.exe
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.xml
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.pdb
+C:\Users\mka\Desktop\pos\POS\obj\Debug\POS.ChangePassword.resources
+C:\Users\mka\Desktop\pos02\pos\POS\bin\Debug\POS.exe.config
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.exe
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.xml
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.pdb
+C:\Users\mka\Desktop\pos02\pos\POS\bin\Debug\db.accdb
+C:\Users\mka\Desktop\pos02\pos\POS\bin\Debug\POS.exe
+C:\Users\mka\Desktop\pos02\pos\POS\bin\Debug\POS.pdb
+C:\Users\mka\Desktop\pos02\pos\POS\bin\Debug\POS.xml
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.ChangePassword.resources
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.MainWindow.resources
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.PasswordPicker.resources
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.Resources.resources
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.AddItem.resources
+C:\Users\mka\Desktop\pos02\pos\POS\obj\Debug\POS.EditItem.resources
+C:\Users\mka\Desktop\pos\bin\Debug\POS.exe.config
+C:\Users\mka\Desktop\pos\obj\Debug\POS.exe
+C:\Users\mka\Desktop\pos\obj\Debug\POS.xml
+C:\Users\mka\Desktop\pos\obj\Debug\POS.pdb
+C:\Users\mka\Desktop\pos\bin\Debug\db.accdb
+C:\Users\mka\Desktop\pos\bin\Debug\POS.exe
+C:\Users\mka\Desktop\pos\bin\Debug\POS.pdb
+C:\Users\mka\Desktop\pos\bin\Debug\POS.xml
+C:\Users\mka\Desktop\pos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mka\Desktop\pos\obj\Debug\POS.AddItem.resources
+C:\Users\mka\Desktop\pos\obj\Debug\POS.ChangePassword.resources
+C:\Users\mka\Desktop\pos\obj\Debug\POS.EditItem.resources
+C:\Users\mka\Desktop\pos\obj\Debug\POS.MainWindow.resources
+C:\Users\mka\Desktop\pos\obj\Debug\POS.PasswordPicker.resources
+C:\Users\mka\Desktop\pos\obj\Debug\POS.Resources.resources
+C:\Users\mka\Desktop\pos\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\pos03\bin\Debug\POS.exe.config
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\pos03\obj\Debug\POS.exe
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\pos03\obj\Debug\POS.xml
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\pos03\obj\Debug\POS.pdb
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\pos03\bin\Debug\db.accdb
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\pos03\bin\Debug\POS.exe
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\pos03\bin\Debug\POS.pdb
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\pos03\bin\Debug\POS.xml
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\pos03\obj\Debug\POS.AddItem.resources
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\pos03\obj\Debug\POS.ChangePassword.resources
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\pos03\obj\Debug\POS.EditItem.resources
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\pos03\obj\Debug\POS.MainWindow.resources
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\pos03\obj\Debug\POS.PasswordPicker.resources
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\pos03\obj\Debug\POS.Resources.resources
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\pos03\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\JoannsPOS\bin\Debug\POS.exe.config
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\JoannsPOS\obj\Debug\POS.exe
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\JoannsPOS\obj\Debug\POS.xml
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\JoannsPOS\obj\Debug\POS.pdb
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\JoannsPOS\bin\Debug\db.accdb
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\JoannsPOS\bin\Debug\POS.exe
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\JoannsPOS\bin\Debug\POS.pdb
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\JoannsPOS\bin\Debug\POS.xml
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\JoannsPOS\obj\Debug\POS.AddItem.resources
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\JoannsPOS\obj\Debug\POS.ChangePassword.resources
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\JoannsPOS\obj\Debug\POS.EditItem.resources
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\JoannsPOS\obj\Debug\POS.MainWindow.resources
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\JoannsPOS\obj\Debug\POS.PasswordPicker.resources
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\JoannsPOS\obj\Debug\POS.Resources.resources
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\JoannsPOS\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\SAD PROJECT\JoannsPOS\bin\Debug\POS.exe.config
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\SAD PROJECT\JoannsPOS\obj\Debug\POS.exe
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\SAD PROJECT\JoannsPOS\obj\Debug\POS.xml
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\SAD PROJECT\JoannsPOS\obj\Debug\POS.pdb
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\SAD PROJECT\JoannsPOS\bin\Debug\db.accdb
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\SAD PROJECT\JoannsPOS\bin\Debug\POS.exe
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\SAD PROJECT\JoannsPOS\bin\Debug\POS.pdb
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\SAD PROJECT\JoannsPOS\bin\Debug\POS.xml
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\SAD PROJECT\JoannsPOS\obj\Debug\POS.AddItem.resources
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\SAD PROJECT\JoannsPOS\obj\Debug\POS.ChangePassword.resources
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\SAD PROJECT\JoannsPOS\obj\Debug\POS.EditItem.resources
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\SAD PROJECT\JoannsPOS\obj\Debug\POS.MainWindow.resources
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\SAD PROJECT\JoannsPOS\obj\Debug\POS.PasswordPicker.resources
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\SAD PROJECT\JoannsPOS\obj\Debug\POS.Resources.resources
+C:\Users\JC Santillan\Desktop\Sony Xperia™ L (C2105)\SAD PROJECT\JoannsPOS\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\MisterScript\Downloads\Compressed\SADprj-master\JoannsPOS\bin\Debug\POS.exe.config
+C:\Users\MisterScript\Downloads\Compressed\SADprj-master\JoannsPOS\obj\Debug\POS.exe
+C:\Users\MisterScript\Downloads\Compressed\SADprj-master\JoannsPOS\obj\Debug\POS.xml
+C:\Users\MisterScript\Downloads\Compressed\SADprj-master\JoannsPOS\obj\Debug\POS.pdb
